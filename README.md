@@ -1,2 +1,2 @@
 # README
-<h1>something about me</h1>
+<h2>something about me</h2>
