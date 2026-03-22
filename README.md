@@ -1,7 +1,19 @@
-<h1>About me</h1>
-<h1 align="center">🎶 Mi Playlist de YouTube</h1>
-<p align="center">
-  <a href="https://www.youtube.com/playlist?list=RDINbxTEerZSk">
-    <img src="https://img.youtube.com/vi/INbxTEerZSk/hqdefault.jpg" height="120px">
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+      <h1>Abou me</h1>
+    </header>
+    <main>
+      <p>I like cats and dog</p>
+    </main>
+    <footer>
+      
+    </footer>
+</body>
+</html>
