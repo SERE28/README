@@ -9,12 +9,13 @@ This GitHub is where I learn, experiment, and have fun.
 **Games that I play:** 
 
 Osu!  
-[<img src="assets/osu.jpeg" width="150" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)
+[<img src="assets/osu.jpeg" width="50" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)  
 
 Valorant  
 Minecraft  
 Genshin Impact  
 Honkai Star Rail
+
 
 
 ---
