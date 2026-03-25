@@ -10,6 +10,7 @@ This GitHub is where I learn, experiment, and have fun.
 
 Osu!  
 [<img src="assets/osu.jpeg" width="150" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)
+
 Valorant  
 Minecraft  
 Genshin Impact  
