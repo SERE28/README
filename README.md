@@ -69,6 +69,6 @@ If you find something you like, awesome.
 If not, that’s fine too.  
 This GitHub is my personal space to create, learn, and have fun.
 
-[🎧 My osu! Profile](https://osu.ppy.sh/users/15646234)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Osu%21Logo_%282015%29.png" width="90" alt="osu! logo"/>](https://osu.ppy.sh/users/15646234)
 
 
