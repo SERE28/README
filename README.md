@@ -69,7 +69,7 @@ If you find something you like, awesome.
 If not, that’s fine too.  
 This GitHub is my personal space to create, learn, and have fun.
 
-[<img src="https://imgur.com/0lKQKQp.png" width="160" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)
+[<img src="README/osu.png" width="160" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)
 
 
 
