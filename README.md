@@ -4,26 +4,26 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente estoy form�
 
 ---
 
-## 🧰 Tecnologías que estoy aprendiendo
+## Tecnologías que estoy aprendiendo
 
-### 🌐 Frontend
+### Frontend
 - HTML5  
 - CSS3  
 - XML  
 
-### 💻 Backend / Programación
+### Backend / Programación
 - Java (nivel básico)  
 - Programación orientada a objetos  
 - Lógica de programación  
 
-### 🗄️ Bases de datos
+### Bases de datos
 - SQL  
 - Modelado de datos  
 - Consultas básicas y diseño de tablas  
 
 ---
 
-## 🚀 Proyectos en los que he trabajado
+## Proyectos en los que he trabajado
 
 *(Como estudiante, no pasa nada si aún no tienes muchos. Puedes ir añadiéndolos a medida que los subas a GitHub.)*
 
@@ -41,20 +41,23 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente estoy form�
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 - Java más avanzado  
-- Diseño web responsive  
+- JavaScript
+- JSON
 - Buenas prácticas de programación  
 - Git y control de versiones  
 
 ---
 
-## 🎯 Objetivo profesional
+## Objetivo profesional
 Estoy buscando mi primera oportunidad en el mundo del desarrollo web, donde pueda seguir aprendiendo y aportar valor mientras crezco como programador.
 
 ---
 
-## 📫 Contacto
-- Email: **tuemail@ejemplo.com**  
-- LinkedIn: *(añádelo cuando lo tengas)*  
+
+## Contacto
+- [LinkedIn](https://www.linkedin.com/in/jiayong-lan-126529395/)
+- Email: tuemail@ejemplo.com
+
 
