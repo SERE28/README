@@ -7,7 +7,9 @@ This GitHub is where I learn, experiment, and have fun.
 
 ## 🎮 Games I Enjoy  
 **Games that I play:** 
+
 Osu!  
+[<img src="assets/osu.jpeg" width="150" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)
 Valorant  
 Minecraft  
 Genshin Impact  
@@ -75,7 +77,6 @@ If you find something you like, awesome.
 If not, that’s fine too.  
 This GitHub is my personal space to create, learn, and have fun.
 
-[<img src="assets/osu.jpeg" width="150" alt="osu! button"/>](https://osu.ppy.sh/users/15646234)
 
 
 
