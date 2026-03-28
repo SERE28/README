@@ -71,12 +71,6 @@ I love sweets, so baking is something I genuinely enjoy. Cakes, pastries, anythi
 
 ---
 
-## ✨ Thanks for stopping by ✨ 
-If you find something you like, awesome.  
-If not, that’s fine too.  
-This GitHub is my personal space to create, learn, and have fun.
-
-
 
 My osu! profile  
 
