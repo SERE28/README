@@ -1,7 +1,6 @@
 # 🌙 Welcome to my space
 
-I’m someone who enjoys quiet things, deep stories, good music, and creating stuff just because I feel like it.  
-This GitHub is where I learn, experiment, and have fun.
+Hi! im Sere and this GitHub is where I learn, experiment, and have fun.
 
 ---
 
